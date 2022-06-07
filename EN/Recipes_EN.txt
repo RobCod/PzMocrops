@@ -1,6 +1,6 @@
 Recipes_EN = {
     Recipe_Open_Packet_of_Avocado_Seeds = "Open Packet of Avocado Seeds",
-    Recipe_Put_Avocado_Seeds_in_Packet = "Put Broccoli Seeds in Packet",
+    Recipe_Put_Avocado_Seeds_in_Packet = "Put Avocado Seeds in Packet",
 
     Recipe_Open_Packet_of_Pepper_Seeds = "Open Packet of Pepper Seeds",
     Recipe_Put_Pepper_Seeds_in_Packet = "Put Pepper Seeds in Packet",

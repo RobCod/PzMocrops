@@ -1,1 +1,24 @@
-
+Farming_CH = {
+  -- vegetables name (type of seed)
+  Farming_Avocado = "鱷梨",
+  Farming_Pepper = "甜椒",
+  Farming_Corn = "玉米",
+  Farming_Eggplant = "茄子",
+  Farming_Leek = "韭菜",
+  Farming_Lettuce = "萵苣",
+  Farming_Onion = "洋蔥",
+  Farming_Watermelon = "西瓜",
+  Farming_Zucchini = "櫛瓜",
+  -- growing phase
+    Farming_Seedling = "幼苗",
+    Farming_Young = "初成",
+    Farming_Ready_for_Harvest = "可採收",
+    Farming_In_bloom = "盛開",
+    Farming_Seed-bearing = "育種",
+    Farming_Receding = "衰退",
+    Farming_Rotten = "腐爛",
+    Farming_Destroyed = "已毀",
+    Farming_Seedling = "幼苗",
+    Farming_Fully_grown = "成熟",
+    Farming_Ready_to_harvest = "可採收",
+}

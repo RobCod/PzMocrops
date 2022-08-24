@@ -1,0 +1,29 @@
+ ItemName_CH = {
+    -- seed names
+    MCM.Avocadoseed = "鱷梨種子",
+    MCM.AvocadoBagSeed = "鱷梨種子包",
+
+    MCM.Pepperseed = "甜椒種子",
+    MCM.PepperBagSeed = "甜椒種子包",
+
+    MCM.Cornseed = "玉米種子",
+    MCM.CornBagSeed = "玉米種子包",
+
+    MCM.Eggplantseed = "茄子種子",
+    MCM.EggplantBagSeed = "茄子種子包",
+
+    MCM.Leekseed = "韭菜種子",
+    MCM.LeekBagSeed = "韭菜種子包",
+
+    MCM.Lettuceseed = "萵苣種子",
+    MCM.LettuceBagSeed = "萵苣種子包",
+
+    MCM.Onionseed = "洋蔥種子",
+    MCM.OnionBagSeed = "洋蔥種子包",
+
+    MCM.Watermelonseed = "西瓜種子",
+    MCM.WatermelonBagSeed = "西瓜種子包",
+
+    MCM.Zucchiniseed = "櫛瓜種子",
+    MCM.ZucchiniBagSeed = "櫛瓜種子包",
+ }

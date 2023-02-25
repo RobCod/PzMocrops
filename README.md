@@ -9,3 +9,6 @@ This is the page for the localization files for the 'mocrops mod for Project Zom
 Language Codes:
 
 AF, AR, CA, CH, CN, CS, DA, DE, FI, FR, HU, ID, IT, JP, KO, NL, NO, PL, PT, PTBR, RO, TH, TR, UA
+
+Currently Supported:
+EN, IT, DE, FR, IT, PL, ES, RU/UA

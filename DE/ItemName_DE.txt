@@ -1,0 +1,29 @@
+ ItemName_DE = {
+    -- seed names
+    MCM.Avocadoseed = "Avocado-Saatgut",
+    MCM.AvocadoBagSeed = "Päckchen mit Avocado-Saatgut",
+ 
+    MCM.Pepperseed = "Paprikaschoten-Saatgut",
+    MCM.PepperBagSeed = "Päckchen mit Paprikaschoten-Saatgut",
+ 
+    MCM.Cornseed = "Mais-Saatgut",
+    MCM.CornBagSeed = "Päckchen mit Mais-Saatgut",
+ 
+    MCM.Eggplantseed = "Auberginen-Saatgut",
+    MCM.EggplantBagSeed = "Päckchen mit Auberginen-Saatgut",
+ 
+    MCM.Leekseed = "Lauch-Saatgut",
+    MCM.LeekBagSeed = "Päckchen mit Lauch-Saatgut",
+ 
+    MCM.Lettuceseed = "Gartensalat-Saatgut",
+    MCM.LettuceBagSeed = "Päckchen mit Gartensalat-Saatgut",
+ 
+    MCM.Onionseed = "Zwiebel-Saatgut",
+    MCM.OnionBagSeed = "Päckchen mit Zwiebel-Saatgut",
+ 
+    MCM.Watermelonseed = "Wassermelonen-Saatgut",
+    MCM.WatermelonBagSeed = "Päckchen mit Wassermelonen-Saatgut",
+ 
+    MCM.Zucchiniseed = "Zucchini-Saatgut",
+    MCM.ZucchiniBagSeed = "Päckchen mit Zucchini-Saatgut",
+ }

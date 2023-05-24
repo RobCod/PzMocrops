@@ -1,0 +1,28 @@
+Recipes_DE = {
+    Recipe_Open_Packet_of_Avocado_Seeds = "Avocado-Saatgut aus Päckchen entnehmen",
+    Recipe_Put_Avocado_Seeds_in_Packet = "Avocado-Saatgut in Päckchen packen",
+ 
+    Recipe_Open_Packet_of_Pepper_Seeds = "Paprikaschoten-Saatgut aus Päckchen entnehmen",
+    Recipe_Put_Pepper_Seeds_in_Packet = "Paprikaschoten-Saatgut in Päckchen packen",
+ 
+    Recipe_Open_Packet_of_Corn_Seeds = "Mais-Saatgut aus Päckchen entnehmen",
+    Recipe_Put_Corn_Seeds_in_Packet = "Mais-Saatgut in Päckchen packen",
+ 
+    Recipe_Open_Packet_of_Eggplant_Seeds = "Auberginen-Saatgut aus Päckchen entnehmen",
+    Recipe_Put_Eggplant_Seeds_in_Packet = "Auberginen-Saatgut in Päckchen packen" ,
+ 
+    Recipe_Open_Packet_of_Leek_Seeds = "Lauch-Saatgut aus Päckchen entnehmen",
+    Recipe_Put_Leek_Seeds_in_Packet = "Lauch-Saatgut in Päckchen packen",
+ 
+    Recipe_Open_Packet_of_Lettuce_Seeds = "Gartensalat-Saatgut aus Päckchen entnehmen",
+    Recipe_Put_Lettuce_Seeds_in_Packet = "Gartensalat-Saatgut in Päckchen packen",
+ 
+    Recipe_Open_Packet_of_Onion_Seeds = "Zwiebel-Saatgut aus Päckchen entnehmen",
+    Recipe_Put_Onion_Seeds_in_Packet = "Zwiebel-Saatgut in Päckchen packen",
+ 
+    Recipe_Open_Packet_of_Watermelon_Seeds = "Wassermelonen-Saatgut aus Päckchen entnehmen",
+    Recipe_Put_Watermelon_Seeds_in_Packet = "Wassermelonen-Saatgut in Päckchen packen",
+ 
+    Recipe_Open_Packet_of_Zucchini_Seeds = "Zucchini-Saatgut aus Päckchen entnehmen",
+    Recipe_Put_Zucchini_Seeds_in_Packet = "Zucchini-Saatgut in Päckchen packen",
+}

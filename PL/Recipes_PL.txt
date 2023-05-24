@@ -1,0 +1,28 @@
+Recipes_PL = {
+    Recipe_Open_Packet_of_Avocado_Seeds = "Otwórz opakowanie nasion Awokado",
+    Recipe_Put_Avocado_Seeds_in_Packet = "W³ó¿ nasiona Awokado do opakowania",
+
+    Recipe_Open_Packet_of_Pepper_Seeds = "Otwórz opakowanie nasion Papryki",
+    Recipe_Put_Pepper_Seeds_in_Packet = "W³ó¿ nasiona Papryki do opakowania",
+
+    Recipe_Open_Packet_of_Corn_Seeds = "Otwórz opakowanie nasion Kukurydzy",
+    Recipe_Put_Corn_Seeds_in_Packet = "W³ó¿ nasiona Kukurydzy do opakowania",
+
+    Recipe_Open_Packet_of_Eggplant_Seeds = "Otwórz opakowanie nasion Bak³a¿ana",
+    Recipe_Put_Eggplant_Seeds_in_Packet = "W³ó¿ nasiona Bak³a¿ana do opakowania ,
+
+    Recipe_Open_Packet_of_Leek_Seeds = "Otwórz opakowanie nasion Pora",
+    Recipe_Put_Leek_Seeds_in_Packet = "W³ó¿ nasiona Pora do opakowania",
+
+    Recipe_Open_Packet_of_Lettuce_Seeds = "Otwórz opakowanie nasion Sa³aty",
+    Recipe_Put_Lettuce_Seeds_in_Packet = "W³ó¿ nasiona Sa³aty do opakowania",
+
+    Recipe_Open_Packet_of_Onion_Seeds = "Otwórz opakowanie nasion Cebuli",
+    Recipe_Put_Onion_Seeds_in_Packet = "W³ó¿ nasiona Cebuli do opakowania",
+
+    Recipe_Open_Packet_of_Watermelon_Seeds = "Otwórz opakowanie nasion Arbuza",
+    Recipe_Put_Watermelon_Seeds_in_Packet = "W³ó¿ nasiona Arbuza do opakowania",
+
+    Recipe_Open_Packet_of_Zucchini_Seeds = "Otwórz opakowanie nasion Cukini",
+    Recipe_Put_Zucchini_Seeds_in_Packet = "W³ó¿ nasiona Cukini do opakowania",
+}

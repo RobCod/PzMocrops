@@ -1,0 +1,24 @@
+Farming_PL = {
+  -- vegetables name (type of seed)
+  Farming_Avocado = "Awokado",
+  Farming_Pepper = "Papryka",
+  Farming_Corn = "Kukurydza",
+  Farming_Eggplant = "Bak³a¿an",
+  Farming_Leek = "Por",
+  Farming_Lettuce = "Sa³ata",
+  Farming_Onion = "Cebula",
+  Farming_Watermelon = "Arbuz",
+  Farming_Zucchini = "Cukinia",
+  -- growing phase
+    Farming_Seedling = "Sadzonki:",
+    Farming_Young = "Kie³kuj¹ce",
+    Farming_Ready_for_Harvest = "Do zbiorów",
+    Farming_In_bloom = "Kwitn¹ce",
+    Farming_Seed-bearing = "Daj¹ce nasiona",
+    Farming_Receding = "Przekwit³e",
+    Farming_Rotten = "Zgni³e",
+    Farming_Destroyed = "Zniszczone",
+    Farming_Seedling = "Sadzonka",
+    Farming_Fully_grown = "W pe³ni wyroœniête",
+    Farming_Ready_to_harvest = "Do zbioru",
+}

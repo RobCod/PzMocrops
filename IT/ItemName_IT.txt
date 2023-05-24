@@ -1,0 +1,29 @@
+ ItemName_IT = {
+    -- seed names
+    MCM.Avocadoseed = "Seme di avocado",
+    MCM.AvocadoBagSeed = "Pacchetto di semi di avocado",
+
+    MCM.Pepperseed = "Seme di peperone dolce",
+    MCM.PepperBagSeed = "Pacchetto di semi di peperone dolce",
+
+    MCM.Cornseed = "Seme di mais",
+    MCM.CornBagSeed = "Pacchetto di semi di mais",
+
+    MCM.Eggplantseed = "Seme di melanzana",
+    MCM.EggplantBagSeed = "Pacchetto di semi di melanzane",
+
+    MCM.Leekseed = "Seme di porro",
+    MCM.LeekBagSeed = "Pacchetto di semi di porro",
+
+    MCM.Lettuceseed = "Seme di lattuga",
+    MCM.LettuceBagSeed = "Pacchetto di semi di lattuga",
+
+    MCM.Onionseed = "Seme di cipolla",
+    MCM.OnionBagSeed = "Pacchetto di semi di cipolla",
+
+    MCM.Watermelonseed = "Seme di anguria",
+    MCM.WatermelonBagSeed = "Pacchetto di semi di anguria",
+
+    MCM.Zucchiniseed = "semi di zucchine",
+    MCM.ZucchiniBagSeed = "Pacchetto di semi di zucchine",
+  }

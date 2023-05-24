@@ -1,0 +1,29 @@
+ ItemName_PL = {
+    -- seed names
+    MCM.Avocadoseed = "Nasiona Awokado",
+    MCM.AvocadoBagSeed = "Opakowanie nasion Awokado",
+
+    MCM.Pepperseed = "Nasiona Papryki",
+    MCM.PepperBagSeed = "Opakowanie nasion Papryki",
+
+    MCM.Cornseed = "Nasiona Kukurydzy",
+    MCM.CornBagSeed = "Opakowanie nasion Kukurydzy",
+
+    MCM.Eggplantseed = "Nasiona Bak³a¿ana",
+    MCM.EggplantBagSeed = "Opakowanie nasion Bak³a¿ana",
+
+    MCM.Leekseed = "Nasiona Pora",
+    MCM.LeekBagSeed = "Opakowanie nasion Pora",
+
+    MCM.Lettuceseed = "Nasiona Sa³aty",
+    MCM.LettuceBagSeed = "Opakowanie nasion Sa³aty",
+
+    MCM.Onionseed = "Nasiona Cebuli",
+    MCM.OnionBagSeed = "Opakowanie nasion Cebuli",
+
+    MCM.Watermelonseed = "Nasiona Arbuza",
+    MCM.WatermelonBagSeed = "Opakowanie nasion Arbuza",
+
+    MCM.Zucchiniseed = "Nasiona Cukini",
+    MCM.ZucchiniBagSeed = "Opakowanie nasion Cukini",
+ }

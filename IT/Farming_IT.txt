@@ -1,0 +1,24 @@
+Farming_IT = {
+  -- vegetables name (type of seed)
+  Farming_Avocado = "Avocado",
+  Farming_Pepper = "Peperone",
+  Farming_Corn = "Mais",
+  Farming_Eggplant = "Melanzane",
+  Farming_Leek = "Poro",
+  Farming_Lettuce = "Lattuga",
+  Farming_Onion = "Cipolla",
+  Farming_Watermelon = "Anguria",
+  Farming_Zucchini = "Zucchine",
+  -- growing phase
+    Farming_Seedling = "Seedling",
+    Farming_Young = "Giovane",
+    Farming_Ready_for_Harvest = "Pronto per il raccolto",
+    Farming_In_bloom = "Fioritura",
+    Farming_Seed-bearing = "Portatore di semi",
+    Farming_Receding = "Recedente",
+    Farming_Rotten = "Marcio",
+    Farming_Destroyed = "Distrutto",
+    Farming_Seedling = "Semenzale",
+    Farming_Fully_grown = "Completamente cresciuto",
+    Farming_Ready_to_harvest = "Pronto per il raccolto",
+}

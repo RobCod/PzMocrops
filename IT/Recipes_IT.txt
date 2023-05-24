@@ -1,0 +1,28 @@
+Recipes_IT = {
+    Recipe_Open_Packet_of_Avocado_Seeds = "Apri pacchetto di semi di avocado",
+    Recipe_Put_Avocado_Seeds_in_Packet = "Metti i semi di avocado nel pacchetto",
+
+    Recipe_Open_Packet_of_Pepper_Seeds = "Apri pacchetto di semi di peperone",
+    Recipe_Put_Pepper_Seeds_in_Packet = "Metti i semi di pepe nel pacchetto",
+
+    Recipe_Open_Packet_of_Corn_Seeds = "Apri pacchetto di semi di mais",
+    Recipe_Put_Corn_Seeds_in_Packet = "Metti i semi di mais nel pacchetto",
+
+    Recipe_Open_Packet_of_Eggplant_Seeds = "Apri pacchetto di semi di melanzane",
+    Recipe_Put_Eggplant_Seeds_in_Packet = "Metti i semi di melanzana nel pacchetto,
+
+    Recipe_Open_Packet_of_Leek_Seeds = "Apri pacchetto di semi di porro",
+    Recipe_Put_Leek_Seeds_in_Packet = "Metti i semi di porro nel pacchetto",
+
+    Recipe_Open_Packet_of_Lettuce_Seeds = "Apri pacchetto di semi di lattuga",
+    Recipe_Put_Lettuce_Seeds_in_Packet = "Metti i semi di lattuga nel pacchetto",
+
+    Recipe_Open_Packet_of_Onion_Seeds = "Apri pacchetto di semi di cipolla",
+    Recipe_Put_Onion_Seeds_in_Packet = "Metti i semi di cipolla nel pacchetto",
+
+    Recipe_Open_Packet_of_Watermelon_Seeds = "Apri pacchetto di semi di anguria",
+    Recipe_Put_Watermelon_Seeds_in_Packet = "Metti i semi di anguria nel pacchetto",
+
+    Recipe_Open_Packet_of_Zucchini_Seeds = "Apri pacchetto di semi di zucchine",
+    Recipe_Put_Zucchini_Seeds_in_Packet = "Metti i semi di zucca nel pacchetto",
+}

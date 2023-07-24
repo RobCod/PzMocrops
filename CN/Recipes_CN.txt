@@ -1,0 +1,28 @@
+Recipes_CH = {
+    Recipe_Open_Packet_of_Avocado_Seeds = "打开鳄梨种子包",
+    Recipe_Put_Avocado_Seeds_in_Packet = "将鳄梨种子放入包装",
+
+    Recipe_Open_Packet_of_Pepper_Seeds = "打开一包甜椒种子",
+    Recipe_Put_Pepper_Seeds_in_Packet = "将甜椒种子放入包装",
+
+    Recipe_Open_Packet_of_Corn_Seeds = "打开玉米种子包",
+    Recipe_Put_Corn_Seeds_in_Packet = "将玉米种子放入包装",
+
+    Recipe_Open_Packet_of_Eggplant_Seeds = "打开茄子种子包",
+    Recipe_Put_Eggplant_Seeds_in_Packet = "将茄子种子放入包装",
+
+    Recipe_Open_Packet_of_Leek_Seeds = "打开韭菜种子包",
+    Recipe_Put_Leek_Seeds_in_Packet = "将韭菜种子放入包装",
+
+    Recipe_Open_Packet_of_Lettuce_Seeds = "打开莴苣种子包",
+    Recipe_Put_Lettuce_Seeds_in_Packet = "将莴苣种子放入包装",
+
+    Recipe_Open_Packet_of_Onion_Seeds = "打开洋葱种子包",
+    Recipe_Put_Onion_Seeds_in_Packet = "将洋葱种子放入包装",
+
+    Recipe_Open_Packet_of_Watermelon_Seeds = "打开西瓜种子包",
+    Recipe_Put_Watermelon_Seeds_in_Packet = "将西瓜种子放入包装",
+
+    Recipe_Open_Packet_of_Zucchini_Seeds = "打开西葫芦种子包",
+    Recipe_Put_Zucchini_Seeds_in_Packet = "将西葫芦种子放入包装",
+}

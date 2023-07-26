@@ -1,4 +1,4 @@
-Farming_CH = {
+Farming_CN = {
   -- vegetables name (type of seed)
   Farming_Avocado = "鳄梨",
   Farming_Pepper = "甜椒",

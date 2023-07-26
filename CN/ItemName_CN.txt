@@ -1,4 +1,4 @@
- ItemName_CH = {
+ ItemName_CN = {
     -- seed names
     MCM.Avocadoseed = "鳄梨种子",
     MCM.AvocadoBagSeed = "鳄梨种子包",

@@ -1,4 +1,4 @@
-Recipes_CH = {
+Recipes_CN = {
     Recipe_Open_Packet_of_Avocado_Seeds = "打开鳄梨种子包",
     Recipe_Put_Avocado_Seeds_in_Packet = "将鳄梨种子放入包装",
 

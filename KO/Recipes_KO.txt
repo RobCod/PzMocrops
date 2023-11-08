@@ -1,0 +1,28 @@
+Recipes_KO = {
+    Recipe_Open_Packet_of_Avocado_Seeds = "아보카도 씨앗 봉투 열기",
+    Recipe_Put_Avocado_Seeds_in_Packet = "아보카도 씨앗 봉투에 담기",
+
+    Recipe_Open_Packet_of_Pepper_Seeds = "피망 씨앗 봉투 열기",
+    Recipe_Put_Pepper_Seeds_in_Packet = "피망 씨앗 봉투에 담기",
+
+    Recipe_Open_Packet_of_Corn_Seeds = "옥수수 씨앗 봉투 열기",
+    Recipe_Put_Corn_Seeds_in_Packet = "옥수수 씨앗 봉투에 담기",
+
+    Recipe_Open_Packet_of_Eggplant_Seeds = "가지 씨앗 봉투 열기",
+    Recipe_Put_Eggplant_Seeds_in_Packet = "가지 씨앗 봉투에 담기 ,
+
+    Recipe_Open_Packet_of_Leek_Seeds = "부추 씨앗 봉투 열기",
+    Recipe_Put_Leek_Seeds_in_Packet = "부추 씨앗 봉투에 담기",
+
+    Recipe_Open_Packet_of_Lettuce_Seeds = "양상추 씨앗 봉투 열기",
+    Recipe_Put_Lettuce_Seeds_in_Packet = "양상추 씨앗 봉투에 담기",
+
+    Recipe_Open_Packet_of_Onion_Seeds = "양파 씨앗 봉투 열기",
+    Recipe_Put_Onion_Seeds_in_Packet = "양파 씨앗 봉투에 담기",
+
+    Recipe_Open_Packet_of_Watermelon_Seeds = "수박 씨앗 봉투 열기",
+    Recipe_Put_Watermelon_Seeds_in_Packet = "수박 씨앗 봉투에 담기",
+
+    Recipe_Open_Packet_of_Zucchini_Seeds = "애호박 씨앗 봉투 열기",
+    Recipe_Put_Zucchini_Seeds_in_Packet = "애호박 씨앗 봉투에 담기",
+}

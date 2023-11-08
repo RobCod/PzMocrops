@@ -1,0 +1,29 @@
+ ItemName_KO = {
+    -- 씨앗 이름
+    MCM.Avocadoseed = "아보카도 씨앗",
+    MCM.AvocadoBagSeed = "아보카도 씨앗 봉투",
+
+    MCM.Pepperseed = "피망 씨앗",
+    MCM.PepperBagSeed = "피망 씨앗 봉투",
+
+    MCM.Cornseed = "옥수수 씨앗",
+    MCM.CornBagSeed = "옥수수 씨앗 봉투",
+
+    MCM.Eggplantseed = "가지 씨앗",
+    MCM.EggplantBagSeed = "가지 씨앗 봉투",
+
+    MCM.Leekseed = "부추 씨앗",
+    MCM.LeekBagSeed = "부추 씨앗 봉투",
+
+    MCM.Lettuceseed = "상추 씨앗",
+    MCM.LettuceBagSeed = "상추 씨앗 봉투",
+
+    MCM.Onionseed = "양파 씨앗",
+    MCM.OnionBagSeed = "양파 씨앗 봉투",
+
+    MCM.Watermelonseed = "수박 씨앗",
+    MCM.WatermelonBagSeed = "수박 씨앗 봉투",
+
+    MCM.Zucchiniseed = "애호박 씨앗",
+    MCM.ZucchiniBagSeed = "애호박 씨앗 봉투",
+ }

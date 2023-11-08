@@ -15,8 +15,8 @@
     MCM.Leekseed = "부추 씨앗",
     MCM.LeekBagSeed = "부추 씨앗 봉투",
 
-    MCM.Lettuceseed = "상추 씨앗",
-    MCM.LettuceBagSeed = "상추 씨앗 봉투",
+    MCM.Lettuceseed = "양상추 씨앗",
+    MCM.LettuceBagSeed = "양상추 씨앗 봉투",
 
     MCM.Onionseed = "양파 씨앗",
     MCM.OnionBagSeed = "양파 씨앗 봉투",

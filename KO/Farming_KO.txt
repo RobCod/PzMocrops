@@ -1,0 +1,24 @@
+Farming_KO = {
+  -- 야채이름 (씨앗)
+  Farming_Avocado = "아보카도",
+  Farming_Pepper = "피망",
+  Farming_Corn = "옥수수",
+  Farming_Eggplant = "가지",
+  Farming_Leek = "부추",
+  Farming_Lettuce = "상추",
+  Farming_Onion = "양파",
+  Farming_Watermelon = "수박",
+  Farming_Zucchini = "애호박",
+  -- 작물 성장 단계
+    Farming_Seedling = "이제 막 심은",
+    Farming_Young = "아직 덜 자란",
+    Farming_Ready_for_Harvest = "수확 가능한",
+    Farming_In_bloom = "꽃이 핀",
+    Farming_Seed-bearing = "씨앗 채취 가능한",
+    Farming_Receding = "비실비실한",
+    Farming_Rotten = "썩은",
+    Farming_Destroyed = "파괴됨",
+    Farming_Seedling = "싹이 틈",
+    Farming_Fully_grown = "완전히 자람",
+    Farming_Ready_to_harvest = "수확 가능",
+}
